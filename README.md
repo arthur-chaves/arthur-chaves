@@ -1,0 +1,40 @@
+# 👋 Hi there! I'm Arthur Chaves,💻 Data Engineer @ Horsa Insight — specialized in data engineering, governance and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.
+
+## 🚀 About Me
+
+I’m a multilingual data engineer based in Europe with a background in Economics & Finance. I enjoy architecting and maintaining data flows that empower decision-makers with clean, reliable insights.
+
+My experience spans across industries, including manufacturing, food & beverage, and banking — where I've led large-scale projects involving ETL orchestration, data governance, and real-time processing.
+
+## ⚙️ Skills & Tech Stack
+
+**Languages:** SQL • Python • XQuery • Bash • PowerShell  
+**ETL & Integration:** Talend • Informatica • Airflow • Irion EDM  
+**Cloud & Big Data:** Azure • Snowflake • Spark • Databricks  
+**Visualization & Reporting:** Power BI • Streamlit
+**Other:** Git • Data Quality • Project Management
+
+## 🌐 Languages
+
+Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (advanced) | Italian 🇮🇹 (fluent)
+
+## 📫 Let’s Connect
+
+- 📧 arthurchaves96@gmail.com  
+- 🔗 [LinkedIn](https://linkedin.com/in/arthur-chaves-innecco)  
+
+- ⚡ Fun fact: - I know by heart every song from Iron Maiden’s first 7 albums — from “Prowler” to “Alexander the Great.”
+<!--
+**arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
