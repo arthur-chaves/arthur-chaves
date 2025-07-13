@@ -35,6 +35,9 @@ Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (adva
 
 I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom of the Opera_ to _Moonchild_. 🎸🔥
 
+---
+
+View my pinned projects 👇
 <!--
 **arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
