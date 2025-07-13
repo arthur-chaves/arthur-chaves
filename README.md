@@ -13,10 +13,12 @@ My experience spans across industries, including manufacturing, food & beverage,
 
 ## ⚙️ Skills & Tech Stack
 
-**Languages:** SQL • Python • XQuery • Bash • PowerShell  
-**ETL & Integration:** Talend • Informatica • Airflow • Irion EDM  
-**Cloud & Big Data:** Azure • Snowflake • Spark • Databricks  
-**Visualization & Reporting:** Power BI • Streamlit
+| **Languages**                                                                 | **ETL & Integration**                                                         | **Cloud & Big Data**                                                          | **Visualization & Reporting**                          | **DevOps**                                              |
+|------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
+| ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)           | ![Talend](https://img.shields.io/badge/Talend-FF6D00?logo=talend&logoColor=white)        | ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)     | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)                  |
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)         | ![Informatica](https://img.shields.io/badge/Informatica-E9561A)                           | ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?logo=snowflake&logoColor=white)   | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)         |
+| ![XQuery](https://img.shields.io/badge/XQuery-0064A5)                                      | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)         |                                                        |                                                         |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)            | ![Irion EDM](https://img.shields.io/badge/Irion_EDM-00BFC8)                               | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) |                                                        |                                                         |
 
 ## 🌐 Languages
 
@@ -32,23 +34,6 @@ Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (adva
 ## ⚡ Fun Fact
 
 I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom of the Opera_ to _Moonchild_. 🎸🔥
-
----
-
-## 🧰 Toolbox & Technologies
-
-## 🧠 What I'm Currently Learning
-
-## 🧰 Toolbox & Technologies
-| **Languages** | **ETL & Integration** | **Cloud & Big Data** | **Visualization & Reporting** |
-|---------------|------------------------|------------------------|-------------------------------|
-| ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white) | ![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logo=sqlite&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=sqlite&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=sqlite&logoColor=black) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=sqlite&logoColor=white) | ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logo=sqlite&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=sqlite&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=sqlite&logoColor=white) |
-| ![XQuery](https://img.shields.io/badge/XQuery-000000?style=for-the-badge&logo=sqlite&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=sqlite&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=sqlite&logoColor=white) |                               |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=sqlite&logoColor=white) | ![Irion EDM](https://img.shields.io/badge/Irion_EDM-000000?style=for-the-badge&logo=sqlite&logoColor=white) | ![Databricks](https://img.shields.io/badge/Databricks-FE4C4C?style=for-the-badge&logo=sqlite&logoColor=white) |                               |
-| ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=sqlite&logoColor=white) |                        |                        |                               |
-
-
 
 <!--
 **arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
