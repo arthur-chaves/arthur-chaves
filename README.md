@@ -1,7 +1,6 @@
 # 👋 Hi there!
 
 💻 I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight, specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.
-
 Writing code isn't just my job, it's where I explore, build, and have fun while turning ideas into reality.
 ---
 ## 🚀 About Me
