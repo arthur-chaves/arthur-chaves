@@ -39,12 +39,15 @@ I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom
 
 ## 🧠 What I'm Currently Learning
 
-| Programming | Visualization | Cloud           | DevOps     | Databases    |
-|-------------|---------------|------------------|------------|--------------|
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud-00ADEF?logo=cloudflare&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) |               |                  | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | ![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white) |
-| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |               |                  |            |              |
+## 🧰 Toolbox & Technologies
+
+| **Languages** | **ETL & Integration** | **Cloud & Big Data** | **Visualization & Reporting** |
+|---------------|------------------------|------------------------|-------------------------------|
+| ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white) | ![Talend](https://img.shields.io/badge/Talend-FF6D00?style=for-the-badge&logo=data&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?style=for-the-badge&logo=data&logoColor=white) | ![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) |
+| ![XQuery](https://img.shields.io/badge/XQuery-000000?style=for-the-badge&logo=data&logoColor=white) | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) |                               |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | ![Irion EDM](https://img.shields.io/badge/Irion_EDM-000000?style=for-the-badge&logo=data&logoColor=white) | ![Databricks](https://img.shields.io/badge/Databricks-FE4C4C?style=for-the-badge&logo=databricks&logoColor=white) |                               |
+| ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |                        |                        |                               |
 
 
 <!--
