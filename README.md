@@ -37,11 +37,15 @@ I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom
 
 ## 🧰 Toolbox & Technologies
 
-| **Languages** | ![SQL](https://img.shields.io/badge/SQL-025E8C?logo=sqlite&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![XQuery](https://img.shields.io/badge/XQuery-005C99?logo=code&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white) |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **ETL & Integration** | ![Talend](https://img.shields.io/badge/Talend-0095D5?logo=talend&logoColor=white) ![Informatica](https://img.shields.io/badge/Informatica-FF4F00?logo=data&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-007A88?logo=apacheairflow&logoColor=white) ![Irion EDM](https://img.shields.io/badge/Irion_EDM-444?logo=data&logoColor=white) |
-| **Cloud & Big Data** | ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white) ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) |
-| **Visualization & Reporting** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+## 🧠 What I'm Currently Learning
+
+| Programming | Visualization | Cloud           | DevOps     | Databases    |
+|-------------|---------------|------------------|------------|--------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | ![Cloud](https://img.shields.io/badge/Cloud-00ADEF?logo=cloudflare&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?logo=googlebigquery&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black) | ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) | ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?logo=firebase&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) |               |                  | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | ![Postgres](https://img.shields.io/badge/Postgres-336791?logo=postgresql&logoColor=white) |
+| ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) |               |                  |            |              |
+
 
 <!--
 **arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
