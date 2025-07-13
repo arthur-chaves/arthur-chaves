@@ -2,7 +2,7 @@
 
 💻 I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight, specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.  
 
-Writing code isn't just my job, it's where I explore, build, and have fun while turning ideas into reality.
+Writing code isn't just part of my job, it's where I explore, build, and have so much fun while turning ideas into reality.
 
 ---
 ## 🚀 About Me
@@ -34,6 +34,15 @@ Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (adva
 I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom of the Opera_ to _Moonchild_. 🎸🔥
 
 ---
+
+## 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+
 <!--
 **arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
