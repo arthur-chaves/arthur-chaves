@@ -1,5 +1,8 @@
-# 👋 Hi there! I'm Arthur Chaves,💻 Data Engineer @ Horsa Insight — specialized in data engineering, governance and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.
+# 👋 Hi there!
 
+💻 I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight — specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.
+
+---
 ## 🚀 About Me
 
 I’m a multilingual data engineer based in Europe with a background in Economics & Finance. I enjoy architecting and maintaining data flows that empower decision-makers with clean, reliable insights.
@@ -23,7 +26,13 @@ Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (adva
 - 📧 arthurchaves96@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/arthur-chaves-innecco)  
 
-- ⚡ Fun fact: - I know by heart every song from Iron Maiden’s first 7 albums — from “Prowler” to “Alexander the Great.”
+---
+
+## ⚡ Fun Fact
+
+I know by heart every song from Iron Maiden’s first 7 albums — from _Prowler_ to _Alexander the Great_. 🎸🔥
+
+---
 <!--
 **arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
