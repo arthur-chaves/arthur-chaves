@@ -5,7 +5,7 @@
 ---
 ## 🚀 About Me
 
-I’m a multilingual data engineer based in Europe with a background in Economics & Finance. I enjoy architecting and maintaining data flows that empower decision-makers with clean, reliable insights.
+I’m a data engineer based in Europe with a background in Economics & Finance. I enjoy architecting and maintaining data flows that empower decision-makers with clean, reliable insights.
 
 My experience spans across industries, including manufacturing, food & beverage, and banking — where I've led large-scale projects involving ETL orchestration, data governance, and real-time processing.
 
@@ -15,7 +15,6 @@ My experience spans across industries, including manufacturing, food & beverage,
 **ETL & Integration:** Talend • Informatica • Airflow • Irion EDM  
 **Cloud & Big Data:** Azure • Snowflake • Spark • Databricks  
 **Visualization & Reporting:** Power BI • Streamlit
-**Other:** Git • Data Quality • Project Management
 
 ## 🌐 Languages
 
@@ -30,7 +29,7 @@ Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (adva
 
 ## ⚡ Fun Fact
 
-I know by heart every song from Iron Maiden’s first 7 albums — from _Prowler_ to _Alexander the Great_. 🎸🔥
+I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom of the Opera_ to _Moonchild_. 🎸🔥
 
 ---
 <!--
