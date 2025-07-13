@@ -1,13 +1,14 @@
 # 👋 Hi there!
 
-💻 I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight — specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.
+💻 I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight, specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.
 
+Writing code isn't just my job, it's where I explore, build, and have fun while turning ideas into reality.
 ---
 ## 🚀 About Me
 
 I’m a data engineer based in Europe with a background in Economics & Finance. I enjoy architecting and maintaining data flows that empower decision-makers with clean, reliable insights.
 
-My experience spans across industries, including manufacturing, food & beverage, and banking — where I've led large-scale projects involving ETL orchestration, data governance, and real-time processing.
+My experience spans across industries, including manufacturing, food & beverage, and banking, where I've led large-scale projects involving ETL orchestration, data governance, and real-time processing.
 
 ## ⚙️ Skills & Tech Stack
 
