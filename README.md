@@ -1,17 +1,17 @@
 # 👋 Hi there!
 
-💻 I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight, specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.  
+I'm **Arthur Chaves**, a Data Engineer @ Horsa Insight, specialized in data engineering, governance, and architecture, with a passion for orchestrating scalable workflows and solving complex data challenges.  
 
 Writing code isn't just part of my job, it's where I explore, build, and have so much fun while turning ideas into reality.
 
 ---
-## 🚀 About Me
+## About Me
 
 I’m a data engineer based in Europe with a background in Economics & Finance. I enjoy architecting and maintaining data flows that empower decision-makers with clean, reliable insights.
 
 My experience spans across industries, including manufacturing, food & beverage, and banking, where I've led large-scale projects involving ETL orchestration, data governance, and real-time processing.
 
-## ⚙️ Skills & Tech Stack
+## Skills & Tech Stack
 
 | **Languages**                                                                 | **ETL & Integration**                                                         | **Cloud & Big Data**                                                          | **Visualization & Reporting**                          | **DevOps**                                              |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------|---------------------------------------------------------|
@@ -20,23 +20,20 @@ My experience spans across industries, including manufacturing, food & beverage,
 | ![XQuery](https://img.shields.io/badge/XQuery-0064A5)                                      | ![Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?logo=apachespark&logoColor=white)         |                                                        |                                                         |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)            | ![Irion EDM](https://img.shields.io/badge/Irion_EDM-00BFC8)                               | ![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white) |                                                        |                                                         |
 
-## 🌐 Languages
+## Languages
 
 Portuguese (native) | English (fluent) | French (advanced) | Italian (fluent) | Spanish (advanced)
 
-## 📫 Let’s Connect
+## Let’s Connect
 
 - 📧 arthurchaves96@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/arthur-chaves-innecco)  
 
----
-
-## ⚡ Fun Fact
+## Fun Fact
 
 I know by heart every song from Iron Maiden’s first 7 albums — from _Phantom of the Opera_ to _Moonchild_. 🎸🔥
 
----
-
+--- 
 View my pinned projects 👇
 <!--
 **arthur-chaves/arthur-chaves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
