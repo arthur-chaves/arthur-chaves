@@ -22,7 +22,7 @@ My experience spans across industries, including manufacturing, food & beverage,
 
 ## 🌐 Languages
 
-Portuguese 🇧🇷 (native) | English 🇺🇸 (fluent) | French 🇫🇷 (advanced) | Italian 🇮🇹 (fluent)
+Portuguese (native) | English (fluent) | French (advanced) | Italian (fluent) | Spanish (advanced)
 
 ## 📫 Let’s Connect
 
